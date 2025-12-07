@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu Sharma</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/c94966f7-de0a-481e-822b-596010d601eb"
+<img align="right" alt="coding" width="400" src="![8dab5a51-b860-4da0-b2f5-9da5ab6e7e2a](https://github.com/user-attachments/assets/b33f6845-191b-46b5-9b5f-0d42b5f33090)"
+
 >
 
 - 🔭 I’m currently working on **BlockChain Base Voting System**
