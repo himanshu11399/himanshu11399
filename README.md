@@ -7,7 +7,7 @@
 
 ### 🚀 About Me
 
-- 🌱 I’m currently learning **React Native, Machine Learning, Deep Learning & Generative AI**
+- 🌱 I’m currently learning **React Native, Machine Learning**
 - 👨‍💻 I love building **mobile apps, neural networks, and AI-driven tools**
 - 💡 Always exploring **cutting-edge tech & AI trends**
 - ⚡ Fun fact: **I debug code faster than I decide what to eat!**
